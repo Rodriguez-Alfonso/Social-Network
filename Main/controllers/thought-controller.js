@@ -53,6 +53,20 @@ const thoughtController = {
     }
   },
 
+async createThought (){}, 
+
+async getThought  (){},
+
+async addReaction  (){},
+
+async removeReaction  (){},
+
+async getSingleThought  (){},
+
+async getThoughts (){},
+
+
+
   
 };
 
